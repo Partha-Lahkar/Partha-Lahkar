@@ -1,4 +1,4 @@
-### Hi there 👋
+### I Believe in When in doubt, use brute force 👋
 
 <!--
 **Partha-Lahkar/Partha-Lahkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

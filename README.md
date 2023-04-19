@@ -1,6 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="400"/>
-</div>
+
+![WhatsApp Image 2023-04-19 at 9 35 11 AM](https://user-images.githubusercontent.com/114888136/232965313-4dfd4fe6-998c-4f7d-9f20-025b53569ecf.jpeg)
+Let's Connect with :
 
 <div id="badges">
    <a href="https://www.linkedin.com/in/partha-p-lahkar/">
@@ -11,7 +11,7 @@
 
 
 
-###                                                                                                I Believe in When in doubt, use brute force 👋
+###                                                                                              
 
 <!--
 **Partha-Lahkar/Partha-Lahkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

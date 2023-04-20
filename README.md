@@ -5,6 +5,9 @@ Let's Connect with :
 <div id="badges">
    <a href="https://www.linkedin.com/in/partha-p-lahkar/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+       <a href="https://www.instagram.com/mr.lahkar/">
+  <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+       
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
